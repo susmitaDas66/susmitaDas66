@@ -1,5 +1,5 @@
 package AbstractClass;
-
+//abstract class
 public abstract class A {
 
 	public static void main(String[] args)
