@@ -1,6 +1,7 @@
 package AbstractClass;
 
 public class CC extends A {
+	//abstract class extend A class
 
 	public static void main(String[] args) 
 	{
